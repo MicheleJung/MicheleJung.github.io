@@ -2,10 +2,10 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://MicheleJung.github.io/
+  repo-url: https://github.com/MicheleJung/archaeothommy.github.io/
   favicon: favicon.png
-  title: "Thomas Rose"
+  title: "Michèle Jungmann"
   navbar:
     left:
       - text: "My research"

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Thomas Rose"
+pagetitle: "Michèle Jungmann"
 ---
 
 # This is the Home page of your web site. 

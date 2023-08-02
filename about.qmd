@@ -2,7 +2,7 @@
 title: "Michèle Jungmann"
 about:
   id: template-area
-  template: jolla
+  template: solana
   image: Bewerbungsfoto.jpg
   links:
     - icon: LinkedIn
